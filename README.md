@@ -64,7 +64,7 @@ Adds to Windows startup using the registry
 📁 File Structure
   ```bash
 window_keylogger/
-├──window_keylogger.py     # Main script
+├──KEYLOGGER.py     # Main script
 ├── README.md        # Project documentation
   ```
 ⚠️ Legal Note
