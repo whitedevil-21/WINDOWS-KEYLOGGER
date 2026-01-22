@@ -70,4 +70,4 @@ window_keylogger/
 ⚠️ Legal Note
 This tool is meant only for educational purposes and authorized penetration testing. Do not use it on devices you do not own. The developer takes no responsibility for misuse.
 
-#OWNER BY : AMIT DEVI(whitedevil-21)
+# OWNER BY : AMIT DEVI(whitedevil-21)
